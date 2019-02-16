@@ -1,3 +1,11 @@
-body	{background-image:"pastel.jpg";}
-h1		{color: white;text-align: center;}
-h2		{color: white;text-align: center;}
+body {background-image: url("pastel.jpg");
+}
+h1		{color: white;text-align: center;
+font-size: 50px;
+font-family: }
+p {background-color: #ffffcc;
+font-family: trebuchet ms;
+word-spacing: 3px}
+h2 {font-family: helvetica;}
+ul {font-family: arial;
+font-size: 18px}
